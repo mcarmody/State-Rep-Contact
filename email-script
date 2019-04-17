@@ -1,0 +1,41 @@
+<script>
+  console.log("started");
+  
+  var senderEmail;
+  var repEmail = 'colcarmody@gmail.com';
+  var senatorEmail = 'senator@email.com';
+  var senatorName = '';
+  var repName = '';
+  var subject = '[Placeholder for the subject copy]';
+  var senderName = '';
+  var senderCity = '';
+  var senderZip = '';
+  var emailBody = '';
+
+  $(function () {
+    $('.button').on('click', function (event) {
+      senderName = window.document.getElementsByClassName('first-name')[0].children[0].children[0].value + " " + window.document.getElementsByClassName('last-name')[0].children[0].children[0].value;
+      senderCity = window.document.getElementById('text-yui_3_17_2_1_1555271846381_75798-field').value;
+      senderZip = window.document.getElementById('text-yui_3_17_2_1_1555271846381_76872-field').value;
+      emailBody = `Dear Senator ` + senatorName + ` and Representative ` + repName + `:
+
+My name is ` + senderName + ` and I’m a concerned constituent from ` + senderCity +`, ` + senderZip + `.
+%0D%0A%0D%0A
+I’m writing today to express my support for a pilot Supervised Use Site (SUS) in Denver and to demand that you take action to support passage of this lifesaving intervention in the Colorado State Legislature.  As you know, the Overdose Crisis claimed 72,306 lives  in 2017 alone; more than 1.4 million people have died since 1999.  In order to combat the Crisis, the Denver City Council approved a pilot program to establish a SUS in Denver by an overwhelming margin of 12-1 allowing for this lifesaving public health intervention to be implemented as a matter of local control.  
+%0D%0A%0D%0A
+Data gathered from 102 Supervised Use Sites operating in 63 cities around the globe provides a wealth of information to support their efficacy.  In fact, there has yet to be a single fatal overdose occurring in any of these sites.  Further, they are proven to promote public health by curbing the spread of viral hepatitis and HIV and have been shown reduce public disorder without increasing crime in surrounding communities.  
+%0D%0A%0D%0A
+The City’s clear desire for a pilot SUS still requires an exemption from the Colorado State Legislature.  Because SUS provides the most clinically sound method to address the current Overdose Crisis and because a Denver SUS would be privately funded in its entirety, I expect that you will support expeditious passage of this lifesaving and critical legislation.  
+%0D%0A%0D%0A
+Thank you for your time and attention to this important matter.
+%0D%0A%0D%0A
+Sincerely,%0D%0A
+` + senderName;
+      console.log("Email: " + senderEmail);
+      console.log("Body: " + emailBody);
+      alert("Redirecting to your email now...");
+      window.location = 'mailto:' + repEmail + ',' + senatorEmail + '?cc=TakeAction@EndOverdose.Today' + '&subject=' + subject + '&body=' +   emailBody;
+      console.log("itsworking.gif");
+    });
+  });
+</script>

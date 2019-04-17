@@ -1,0 +1,66 @@
+{
+	"Adams":
+	"Alamosa":
+	"Arapahoe":
+	"Archuleta":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Baca":
+	"Bent":
+	"Boulder":
+	"Broomfield":
+	"Chaffee":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Cheyenne": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Clear Creek":	["Dennis Hisey",	"Republican",	"Cañon City",	"2022"],
+	"Conejos":
+	"Costilla":
+	"Crowley":
+	"Custer":
+	"Delta":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Denver":
+	"Dolores":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Douglas":	["James 'Jim' Smallwood",	"Republican",	"Sedalia",	"2020"],
+	"Eagle":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Elbert": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"El Paso":	["Dennis Hisey",	"Republican",	"Cañon City",	"2022"],
+	"Fremont":	["Dennis Hisey",	"Republican",	"Cañon City",	"2022"],
+	"Garfield":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Gilpin":
+	"Grand":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Gunnison":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Hinsdale":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Huerfano":
+	"Jackson":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Jefferson":
+	"Kiowa":
+	"Kit Carson": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Lake":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"La Plata":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Larimer":
+	"Las Animas":
+	"Lincoln": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Logan": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Mesa":	["Ray Scott",	"Republican",	"Grand Junction",	"2022"],
+	"Mineral":
+	"Moffat":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Montezuma":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Montrose":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Morgan": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Otero":
+	"Ouray":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Park":	["Dennis Hisey",	"Republican",	"Cañon City",	"2022"],
+	"Phillips": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Pitkin":	["Kerry Donovan",	"Democratic",	"Vail",	"2022"],
+	"Prowers":
+	"Pueblo":	["Leroy Garcia",	"Democratic",	"Pueblo",	"2022"],
+	"Rio Blanco":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Rio Grande":
+	"Routt":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Saguache":
+	"San Juan":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"San Miguel":	["Don Coram",	"Republican",	"Montrose",	"2022"],
+	"Sedgwick": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Summit":	["Bob Rankin",	"Republican",	"Carbondale",	"2020"],
+	"Teller":	["Dennis Hisey",	"Republican",	"Cañon City",	"2022"],
+	"Washington": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Weld": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+	"Yuma": ["Jerry Sonnenberg",	"Republican",	"Sterling",	"2022"],
+}
